@@ -1,0 +1,9 @@
+# vs code artifacts 
+.vscode/
+
+# Environment Variables
+**/.env
+
+# packer 
+credentials*
+*test*
